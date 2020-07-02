@@ -1,17 +1,29 @@
 /* 
-    Condicionales
-    --------------
-    -lo que esta adentro del parentesis condiciona una acción
+    ---------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        CONDICIONALES JAVASCRIPT 
+    ----------------------------------
 */
 
-// 
 
+// CONDICIONALES ---- > lo que esta adentro del parentesis condiciona una acción
+
+/* 
+    - CASO AISLADO - ERROR al intentar realizar un git pull (merge + ) 
+        - Con el fin de unir mi repositorio local de Visual Studio Code 
+        - Con el repositorio en la nube de github  
+    - Y tiene que ver en la manera como github crea los primeros archivos
+    - COMANDO GIT 
+        - git pull origin master --allow-unrelated-historiesg
+*/
 
 
 
 /*
-    if 
-    ---------
+    ----------------------------
+        CONDICIONAL IF BÁSICO 
+    ----------------------------
 */
 
 var num =1;
@@ -26,7 +38,14 @@ if (false)
         console.log('No me imprime Buenos dás');
     }
 
+    
 
+
+/*
+    ----------------------------
+        CONDICIONAL IF -ELSE
+    ----------------------------
+*/
 
 
 //if - else  (si hay sol o no hay sol)
@@ -44,12 +63,7 @@ else
 
 
 
-
-
-//if - else  (si hay sol o no hay sol)
-
-
-// Una nueva condicional if-else if- else
+// Una nueva condicional if-else 
 
 var tiempo = 'sol';       // la variable num se convertira depende del valor que le pongamos
 
@@ -69,14 +83,18 @@ else
     }
 
 
+/*
+    ---------------
+        SWITCH
+    ---------------
+*/
 
 
 /*
     SWITCH
-    --------
-    - Diferentes casos, con una variable. Variable "tiempo"
-    - ponerle "break" a cada "case" es obligatorio
-    - "brak" es diferente que if. Rompe todo y corta toda ejecución
+        - Diferentes casos, con una variable. Variable "tiempo"
+        - ponerle "break" a cada "case" es obligatorio
+        - "brak" es diferente que if. Rompe todo y corta toda ejecución
 */
 
 var tiempo = 'sol'; 
@@ -98,11 +116,16 @@ switch(tiempo)
     }
 
 
+
+
 /*
-    ARRAY
-    --------
-        -ARRAY O lista segun que lenguaje
-        -
+    -------------
+        ARRAY 
+    -------------
+*/
+
+/*
+    -ARRAY O lista segun que lenguaje
 */
 
 // aqui solo podemos asignar un valor ejecuto

@@ -1,18 +1,23 @@
-/*
-    Juego: Piedra, papel, Tijera
+/* 
+    ---------------------------------
+        Author : Toni
+        Juego: Piedra, papel, Tijera
     ----------------------------------
 */
 
-//Recordar que las variables y fuciones seimpre arriba por el tema de hosting
+//Recordar que las variables y fuciones siempre arriba por el tema de hosting
 
-
-//variables
+/*
+    ------------------------
+        VALRORES GLOBALES
+    ------------------------
+*/
 //piedra =0  -  papel = 1     - tijera=2
 var elementos_del_juego = ["pieda", "papel", "tijera"];
 
 
 //funciones 
-// ju1 y ju2 pertenecen solo al game
+// jugador1 y jugador2 pertenecen solo al game
 function game (jugador1,jugador2)
     {
         //Comprabar Empate

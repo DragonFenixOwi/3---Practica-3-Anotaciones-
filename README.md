@@ -1,5 +1,15 @@
 # Condicionales
- 1. IF BÁSICO
- 2. IF-ELSE
- 3. SWITCH 
- 4. ARRAY
+ 1. **if Básico**
+ 2. **if-else**
+ 3. **if-else** y **else-if**
+ 3. **Switch** 
+    - **case**
+    - **break**
+    - **default**
+ 4. **Array**
+    - **length**
+    - **push()**
+    - **pop()**
+    - **unshift()**
+    - **shift()**  
+    - ***indexOP()**

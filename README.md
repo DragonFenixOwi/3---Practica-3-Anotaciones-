@@ -1,5 +1,3 @@
-# Condicionales
-**---------------------------------------**
 ## Contenido General 
  1. **if Básico**
  2. **if-else**
